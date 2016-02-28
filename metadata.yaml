@@ -1,0 +1,28 @@
+_repo: The-Treaties-of-Canada-with-the-Indians-of-Manitoba-and-the-North-West-Territories-Including-t__7126
+creator:
+  author:
+    agent_name: Morris, Alexander
+    birthdate: 1826
+    deathdate: 1889
+    gutenberg_agent_id: '2348'
+    url: http://www.gutenberg.org/2009/agents/2348
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Morris
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Canada -- Treaties'
+- !lcc 'KE'
+- !lcsh 'Indians of North America -- Legal status, laws, etc. -- Manitoba'
+- !lcsh 'Indians of North America -- Legal status, laws, etc. -- Northwest Territories'
+title: "The Treaties of Canada with the Indians of Manitoba and the North-West Territories\r\
+  \nIncluding the Negotiations on Which They Were Based, and Other Information Relating\
+  \ Thereto"
+url: http://www.gutenberg.org/ebooks/7126
