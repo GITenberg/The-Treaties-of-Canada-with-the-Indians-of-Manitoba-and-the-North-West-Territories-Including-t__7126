@@ -1,4 +1,8 @@
 _repo: The-Treaties-of-Canada-with-the-Indians-of-Manitoba-and-the-North-West-Territories-Including-t__7126
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morris, Alexander
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2348
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Morris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7126#The-Treaties-of-Canada-with-the-Indians-of-Manitoba-and-the-North-West-Territories-Including-t_
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
